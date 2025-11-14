@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there! 
 
-<!--
-**spo0q/spo0q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Another dev</h3>
 
-Here are some ideas to get you started:
+## All tools I can list to impress you
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've already played with that:
+
+![SkillIcons](https://skillicons.dev/icons?i=bash,git,linux,js,ts,html,css,nodejs,py,tailwind,mysql,mongodb,redis,php,docker,golang,rails,ruby,svelte,github,gitlab,bitbucket,netlify,symfony,laravel,ai,postman,blender,selenium)
+
+## Things I really use
+
+![SkillIcons](https://skillicons.dev/icons?i=linux,bash,git,py,mysql,mongodb,php,laravel,postman,github,gitlab,bitbucket,netlify)
+
+## Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Read stuff</h3>
+<p align="left">
+<a href="https://dev.to/spo0q"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="spo0q" height="30" width="40" /></a>
+</p>
