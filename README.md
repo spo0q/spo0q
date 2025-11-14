@@ -15,7 +15,3 @@ I've already played with that:
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-<p align="left">
-<a href="https://dev.to/spo0q"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="spo0q" height="30" width="40" /></a>
-</p>
