@@ -16,7 +16,7 @@ I've already played with that:
 
 Too bad! I can even list more items:
 
- [![logo Jekyll](/logos/jekyllrb-icon.svg)](https://jekyllrb.com/) [![logo Hugo](/logos/logos-hugo.png)](https://gohugo.io/)
+ [![logo Jekyll](/logos/jekyllrb-icon.svg)](https://jekyllrb.com/) [![logo Hugo](/logos/logo-hugo.png)](https://gohugo.io/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
