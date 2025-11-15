@@ -20,4 +20,9 @@ Too bad! I can even list more items:
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [PHP: Do you need async?](https://dev.to/spo0q/php-do-you-need-async-248f)
+- [Hugo: remove accents from anchors](https://dev.to/spo0q/hugo-remove-accents-from-anchors-3786)
+- [JS: The underrated Font Load API](https://dev.to/spo0q/js-the-underrated-font-load-api-3dmi)
+- [PHP 8.5: The Pipe Operator](https://dev.to/spo0q/php-85-the-pipe-operator-3f5o)
+- [PHP: When to Enum?](https://dev.to/spo0q/php-when-to-enum-45me)
 <!-- BLOG-POST-LIST:END -->
